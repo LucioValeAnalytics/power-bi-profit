@@ -206,3 +206,42 @@ power-bi-profit/
 │   └── 05-dashboard-filters.png
 │
 └── README.md
+```
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- DAX
+- Data Modeling
+- Business Intelligence
+- Data Analytics
+- Data Visualization
+- Interactive Dashboard Design
+
+---
+
+## 📚 Project Context
+
+This project was developed as part of a **Data Analytics / Power BI challenge from DIO**.
+
+The original challenge involved analyzing sales, products, countries, units sold and profitability.
+
+The final solution expands the analytical perspective by combining these requirements into a cohesive executive dashboard with interactive navigation and profitability analysis.
+
+---
+
+## 💡 Key Insight
+
+The project demonstrates how Power BI can go beyond static reporting by connecting:
+
+**Data → Metrics → Analysis → Insights → Decisions**
+
+The focus is not only on building visuals, but on creating a **business-oriented analytical experience**.
+
+---
+
+## 👤 Author
+
+### Lucio Vale Analytics
+
+**Power BI | Data Analytics | Business Intelligence**

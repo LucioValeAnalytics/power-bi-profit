@@ -207,6 +207,7 @@ power-bi-profit/
 │
 └── README.md
 ```
+---
 
 ## 🛠️ Tools & Technologies
 
